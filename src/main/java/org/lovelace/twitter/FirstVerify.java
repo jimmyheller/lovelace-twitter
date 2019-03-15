@@ -9,10 +9,10 @@ import twitter4j.conf.ConfigurationBuilder;
 
 @RestController
 public class FirstVerify {
-    static final String CONSUMER_KEY = "IhB8qInT7kk1lsQj9An0Ag";
-    static final String CONSUMER_SECRET = "qPRk6OxklyNQkfQqeW7BPLU0vcIGeG0K9yIPZbjOsRY";
-    static final String ACCESS_TOKEN = "34608520-iL1zEjx86Cr6G86BoG2ZJpaFan6qFd3jBiohWvj7U";
-    static final String ACCESS_TOKEN_SECRET = "YWyy5JT9RwrjS4eX5SZdtPWOPRp5vYnj0prFmFZRG59tX";
+    static final String CONSUMER_KEY = "ddddddddddddddddd";
+    static final String CONSUMER_SECRET = "fffffffffffffffffffff";
+    static final String ACCESS_TOKEN = "eeeeeeeeeeeeeeeeee";
+    static final String ACCESS_TOKEN_SECRET = "ttttttttttttttttt";
 
 
     public static Twitter getTwitterInstance() {
