@@ -26,6 +26,8 @@ public class FirstVerify {
         TwitterFactory tf = new TwitterFactory(cb.build());
         return tf.getInstance();
     }
+
+    //test
     @RequestMapping(value="/FirstVerify")
     public String FirstVerify() throws TwitterException {
         return getTwitterInstance().getScreenName();
