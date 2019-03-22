@@ -33,14 +33,15 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<dependency>
 			<groupId>org.twitter4j</groupId>
 			<artifactId>twitter4j-core</artifactId>
 			<version>4.0.6</version>
 		</dependency>
+		<!--<dependency>-->
+		<!--<groupId>org.springframework.social</groupId>-->
+		<!--<artifactId>spring-social-twitter</artifactId>-->
+		<!--<version>1.1.0.RELEASE</version>-->
+		<!--</dependency>-->
 	</dependencies>
 
 	<build>
