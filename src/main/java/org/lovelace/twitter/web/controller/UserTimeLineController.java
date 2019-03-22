@@ -13,7 +13,7 @@ import twitter4j.conf.ConfigurationBuilder;
 import java.util.List;
 
 @Controller
-@RequestMapping("/")
+@RequestMapping("/user/timeline")
 public class UserTimeLineController {
 
     private static final String CONSUMER_KEY = "";
